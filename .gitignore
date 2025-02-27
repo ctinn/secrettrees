@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
